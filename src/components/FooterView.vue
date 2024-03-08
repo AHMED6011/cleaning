@@ -15,16 +15,16 @@
           <div class="footer_profile col-lg-4 col-md-6 col-sm-10">
             <ul>
               <li>
-                <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                <a target="_blank" href="#"><i class="fa-brands fa-facebook"></i></a>
               </li>
               <li>
                 <a href="https://wa.me/4917628708089"><i class="fa-brands fa-whatsapp"></i></a>
               </li>
               <li>
-                <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a target="_blank" href="#"><i class="fa-brands fa-instagram"></i></a>
               </li>
               <li>
-                <a href="#"><i class="fa-brands fa-tiktok"></i></a>
+                <a target="_blank" href="#"><i class="fa-brands fa-tiktok"></i></a>
               </li>
             </ul>
           </div>

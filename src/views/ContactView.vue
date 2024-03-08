@@ -11,15 +11,13 @@
         <div class="footer_profile">
           <ul>
             <li data-aos-delay="100" data-aos="zoom-out-up">
-              <a href="#"><i class="fa-brands fa-xl fa-facebook"></i></a>
+              <a target="_blank" href="#"><i class="fa-brands fa-xl fa-facebook"></i></a>
             </li>
             <li data-aos-delay="300" data-aos="zoom-out-up">
-              <a target="_blank" href="https://wa.me/4917628708089"
-                ><i class="fa-brands fa-xl fa-whatsapp"></i
-              ></a>
+              <a href="https://wa.me/4917628708089"><i class="fa-brands fa-xl fa-whatsapp"></i></a>
             </li>
             <li data-aos-delay="500" data-aos="zoom-out-up">
-              <a href="#"><i class="fa-brands fa-xl fa-instagram"></i></a>
+              <a target="_blank" href="#"><i class="fa-brands fa-xl fa-instagram"></i></a>
             </li>
           </ul>
         </div>
