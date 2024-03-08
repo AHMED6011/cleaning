@@ -1,92 +1,92 @@
 [
   {
     "id": "1",
-    "image": "/assets/images/1.png",
+    "image": "/assets/1.png",
     "title": "Hausreinigung"
   },
   {
     "id": "2",
-    "image": "/assets/images/2.jpeg",
+    "image": "/assets/2.jpeg",
     "title": "Teppich- und Teppichreinigung"
   },
   {
     "id": "3",
-    "image": "/assets/images/3.jpeg",
+    "image": "/assets/3.jpeg",
     "title": "Möbelreinigung"
   },
   {
     "id": "4",
-    "image": "/assets/images/4.jpeg",
+    "image": "/assets/4.jpeg",
     "title": "Reinigung nach dem Bau"
   },
   {
     "id": "5",
-    "image": "/assets/images/5.jpeg",
+    "image": "/assets/5.jpeg",
     "title": "Reinigung von Glasfassaden"
   },
   {
     "id": "6",
-    "image": "/assets/images/6.jpeg",
+    "image": "/assets/6.jpeg",
     "title": "Möbelverpackung"
   },
   {
     "id": "7",
-    "image": "/assets/images/7.jpeg",
+    "image": "/assets/7.jpeg",
     "title": "Reinigung von Holzoberflächen"
   },
   {
     "id": "8",
-    "image": "/assets/images/8.jpeg",
+    "image": "/assets/8.jpeg",
     "title": "Reinigung von Bauernhöfen und Gärten"
   },
   {
     "id": "9",
-    "image": "/assets/images/9.png",
+    "image": "/assets/9.png",
     "title": "Ort-Teppichreinigung"
   },
   {
     "id": "10",
-    "image": "/assets/images/10-1024x1024.jpeg",
+    "image": "/assets/10-1024x1024.jpeg",
     "title": "Wohnungsreinigung"
   },
   {
     "id": "11",
-    "image": "/assets/images/11-1024x1024.jpeg",
+    "image": "/assets/11-1024x1024.jpeg",
     "title": "Reinigung von Einkaufszentren"
   },
   {
     "id": "12",
-    "image": "/assets/images/12-1024x1024.jpeg",
+    "image": "/assets/12-1024x1024.jpeg",
     "title": "Reinigung von Wohnkomplexen"
   },
   {
     "id": "13",
-    "image": "/assets/images/14-1024x1024.jpeg",
+    "image": "/assets/14-1024x1024.jpeg",
     "title": "Brunnenreinigung"
   },
   {
     "id": "14",
-    "image": "/assets/images/15-1024x1024.jpeg",
+    "image": "/assets/15-1024x1024.jpeg",
     "title": "Poolreinigung"
   },
   {
     "id": "15",
-    "image": "/assets/images/16-1024x1024.jpeg",
+    "image": "/assets/16-1024x1024.jpeg",
     "title": "Küchen- und Restaurantreinigung"
   },
   {
     "id": "16",
-    "image": "/assets/images/18-1024x1024.jpeg",
+    "image": "/assets/18-1024x1024.jpeg",
     "title": "Villen- und Palastreinigung"
   },
   {
     "id": "17",
-    "image": "/assets/images/20-1024x1024.jpeg",
+    "image": "/assets/20-1024x1024.jpeg",
     "title": "Decken- und Wandreinigung"
   },
   {
     "id": "18",
-    "image": "/assets/images/21-1024x1024.jpeg",
+    "image": "/assets/21-1024x1024.jpeg",
     "title": "Reinigung von Schulen und Universitäten"
   }
 ]
