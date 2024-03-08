@@ -11,18 +11,18 @@
         <div class="carousel-item active">
           <img src="../assets/images/تنظيف5.png" class="w-100" alt="..." />
         </div>
-        <!-- <div class="carousel-item">
+        <div class="carousel-item">
           <img src="../assets/images/تنظيف7.png" class="w-100" alt="..." />
         </div>
         <div class="carousel-item">
           <img src="../assets/images/تنظيف8.png" class="w-100" alt="..." />
-        </div> -->
-        <!-- <div class="carousel-item">
+        </div>
+        <div class="carousel-item">
           <img src="../assets/images/20-1024x1024.jpeg" class="w-100" alt="..." />
         </div>
         <div class="carousel-item">
           <img src="../assets/images/7.jpeg" class="w-100" alt="..." />
-        </div> -->
+        </div>
       </div>
       <div class="carousel-caption">
         <h1 data-aos="fade-up" class="loader">
