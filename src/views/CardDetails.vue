@@ -63,7 +63,7 @@
 </template>
 
 <script>
-import imagesData from '../assets/images.json'
+import imagesData from '../images.json'
 
 export default {
   props: ['id'],

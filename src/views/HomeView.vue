@@ -164,7 +164,7 @@
 </template>
 
 <script>
-import imagesData from '../assets/images.json'
+import imagesData from '../images.json'
 import { RouterLink } from 'vue-router'
 export default {
   components: { RouterLink },
