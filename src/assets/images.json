@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "image": "/src/assets/images/1.png",
+    "image": "../assets/images/1.png",
     "title": "Hausreinigung"
   },
   {
