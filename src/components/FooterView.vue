@@ -18,7 +18,7 @@
                 <a href="#"><i class="fa-brands fa-facebook"></i></a>
               </li>
               <li>
-                <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                <a href="https://wa.me/4917628708089"><i class="fa-brands fa-whatsapp"></i></a>
               </li>
               <li>
                 <a href="#"><i class="fa-brands fa-instagram"></i></a>
