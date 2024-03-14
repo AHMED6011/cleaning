@@ -24,7 +24,7 @@
                 <a target="_blank" href="#"><i class="fa-brands fa-instagram"></i></a>
               </li>
               <li>
-                <a target="_blank" href="#"><i class="fa-brands fa-tiktok"></i></a>
+                <a target="_blank" href="#"><i class="fa-brands fa-telegram"></i></a>
               </li>
             </ul>
           </div>

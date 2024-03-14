@@ -18,10 +18,14 @@
           <img src="../assets/images/تنظيف8.png" class="w-100" alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="../assets/images/20-1024x1024.jpeg" class="w-100" alt="..." />
+          <img
+            src="https://ahmed6011.github.io/images/images2/20-1024x1024.jpeg"
+            class="w-100"
+            alt="..."
+          />
         </div>
         <div class="carousel-item">
-          <img src="../assets/images/7.jpeg" class="w-100" alt="..." />
+          <img src="https://ahmed6011.github.io/images/images2/7.jpeg" class="w-100" alt="..." />
         </div>
       </div>
       <div class="carousel-caption">
@@ -198,6 +202,7 @@ $background-color: #141414;
       z-index: -1 !important;
     }
   }
+
   .carousel-caption {
     display: flex;
     flex-direction: column;
@@ -209,6 +214,7 @@ $background-color: #141414;
     h1 {
       line-height: 1.3;
     }
+
     h5 {
       line-height: 1.5;
     }
@@ -218,6 +224,7 @@ $background-color: #141414;
 .starts {
   .card {
     height: 400px;
+
     svg {
       fill: #0d6efd;
       color: #0d6efd;
@@ -226,6 +233,7 @@ $background-color: #141414;
     }
   }
 }
+
 .services {
   padding: 50px 0;
 
@@ -239,8 +247,10 @@ $background-color: #141414;
     h3 {
       margin: 20px 0;
     }
+
     h5 {
       position: relative;
+
       &::before {
         content: '';
         width: 80%;
@@ -298,6 +308,7 @@ $background-color: #141414;
         }
 
         text-decoration-line: none;
+
         &:hover {
           text-decoration-line: underline;
         }
@@ -316,9 +327,11 @@ $background-color: #141414;
   h3 {
     margin: 20px 0;
   }
+
   h5 {
     position: relative;
     text-align: center;
+
     &::before {
       content: '';
       width: 80%;
@@ -345,6 +358,7 @@ $background-color: #141414;
 
     .carousel-caption {
       padding-bottom: 20px;
+
       h1 {
         font-size: 25px !important;
       }
@@ -354,6 +368,7 @@ $background-color: #141414;
       }
     }
   }
+
   .starts {
     .card {
       height: 330px;

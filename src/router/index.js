@@ -7,25 +7,42 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: HomeView
+      component: HomeView,
+      meta: {
+        title: 'Kristall glanz Reinigung'
+      }
     },
     {
       path: '/about',
       name: 'about',
-      component: () => import('../views/AboutView.vue')
+      component: () => import('../views/AboutView.vue'),
+      meta: {
+        title: 'Über das Unternehmen'
+      }
     },
     {
       path: '/contact',
       name: 'contact',
-      component: () => import('../views/ContactView.vue')
+      component: () => import('../views/ContactView.vue'),
+      meta: {
+        title: 'Kontakt'
+      }
     },
     {
       path: '/details/:id',
       name: 'details',
       component: () => import('../views/CardDetails.vue'),
+      meta: {
+        title: 'Detailseite'
+      },
       props: true
     }
   ]
+})
+
+router.beforeEach((to, from, next) => {
+  document.title = `${to.meta.title}`
+  next()
 })
 
 export default router

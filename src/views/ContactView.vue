@@ -10,7 +10,7 @@
         <h1 class="text-primary px-2" data-aos="fade-down">Verbinde dich mit uns</h1>
         <div class="footer_profile">
           <ul>
-            <li data-aos-delay="100" data-aos="zoom-out-up">
+            <li data-aos-delay="200" data-aos="zoom-out-up">
               <a target="_blank" href="#"><i class="fa-brands fa-xl fa-facebook"></i></a>
             </li>
             <li data-aos-delay="300" data-aos="zoom-out-up">
@@ -18,6 +18,9 @@
             </li>
             <li data-aos-delay="500" data-aos="zoom-out-up">
               <a target="_blank" href="#"><i class="fa-brands fa-xl fa-instagram"></i></a>
+            </li>
+            <li data-aos-delay="600" data-aos="zoom-out-up">
+              <a target="_blank" href="#"><i class="fa-brands fa-xl fa-telegram"></i> </a>
             </li>
           </ul>
         </div>
@@ -56,7 +59,16 @@
 </template>
 
 <script>
-export default {}
+export default {
+  created() {
+    setTimeout(() => {
+      console.clear()
+    }, 3000)
+    setInterval(() => {
+      console.clear()
+    }, 15000)
+  }
+}
 </script>
 
 <style lang="scss" scoped>
@@ -156,12 +168,17 @@ export default {}
       padding: 10px 20px;
       margin-bottom: 20px;
 
+      a {
+        transition: 0.3s !important;
+      }
+
       &:hover {
-        background-color: #ccc;
+        background-color: #1e34ff;
         border-color: transparent;
 
         a {
           color: #000 !important;
+          font-weight: bold;
         }
       }
       a {

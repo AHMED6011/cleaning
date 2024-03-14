@@ -20,13 +20,7 @@
         >
           <i class="fa-solid fa-bars fa-xl py-3 px-1 text-light"></i>
         </button>
-        <!-- <div
-          :class="{
-            'collapse justify-content-center pe-5 navbar-collapse': isExpanded,
-            'justify-content-center pe-5 navbar-collapse collapse show': !isExpanded
-          }"
-          id="navbarNavDropdown"
-        > -->
+
         <div :class="classes" id="navbarNavDropdown">
           <ul class="navbar-nav">
             <li class="nav-item px-3">

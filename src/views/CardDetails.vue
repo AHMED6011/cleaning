@@ -1,6 +1,12 @@
 <template>
   <div>
-    <div id="carouselExample" class="carousel slide">
+    <div
+      id="carouselExampleFade"
+      data-bs-pause="false"
+      data-bs-interval="2000"
+      class="carousel slide carousel-fade"
+      data-bs-ride="carousel"
+    >
       <div class="carousel-inner overlay">
         <div class="carousel-item active">
           <img :src="imageDetails.image" class="d-block w-100" alt="image details" />
@@ -20,6 +26,21 @@
     <div class="details">
       <div class="container">
         <div class="row">
+          <div
+            data-aos="zoom-in-down"
+            data-aos-delay="1500"
+            class="col-12 d-flex justify-content-center pb-5 mb-5"
+          >
+            <iframe
+              class="object-fit-xxl-contain video border rounded"
+              :src="imageDetails.video"
+              title="YouTube video player"
+              frameborder="10"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+
           <div class="col-12 col-md-8 text-md-start text-center">
             <p class="details-title">
               Natürlich suchen Sie nach den besten Unternehmen, um Ihr Zuhause zu reinigen? Die
@@ -102,6 +123,7 @@ export default {
     h1 {
       line-height: 1.3;
     }
+
     h5 {
       line-height: 1.5;
     }
@@ -113,6 +135,11 @@ export default {
   background-color: #0d6efd2b;
   box-shadow: 0px 0px 50px 30px #0d6efd2b;
   top: -100px;
+
+  .video {
+    width: 560px;
+    height: 315px;
+  }
   .details-title {
     font-size: 25px;
     line-height: 1.5;
@@ -139,6 +166,7 @@ export default {
   .carousel {
     .overlay {
       height: 100vh;
+
       img {
         position: relative;
         top: 100px;
@@ -148,12 +176,17 @@ export default {
 
     .carousel-caption {
       padding-bottom: 0px;
+
       h5 {
         font-size: 18px;
       }
     }
   }
+
   .details {
+    .video {
+      height: 200px;
+    }
     .details-title {
       font-size: 18px;
     }
