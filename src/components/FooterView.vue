@@ -15,7 +15,9 @@
           <div class="footer_profile col-lg-4 col-md-6 col-sm-10">
             <ul>
               <li>
-                <a target="_blank" href="#"><i class="fa-brands fa-facebook"></i></a>
+                <a target="_blank" href="https://www.facebook.com/KristallGlanzR"
+                  ><i class="fa-brands fa-facebook"></i
+                ></a>
               </li>
               <li>
                 <a href="https://wa.me/4917628708089"><i class="fa-brands fa-whatsapp"></i></a>
@@ -24,7 +26,9 @@
                 <a target="_blank" href="#"><i class="fa-brands fa-instagram"></i></a>
               </li>
               <li>
-                <a target="_blank" href="#"><i class="fa-brands fa-telegram"></i></a>
+                <a target="_blank" href="https://t.me/+4917628708089"
+                  ><i class="fa-brands fa-telegram"></i
+                ></a>
               </li>
             </ul>
           </div>

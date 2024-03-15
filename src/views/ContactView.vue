@@ -11,7 +11,9 @@
         <div class="footer_profile">
           <ul>
             <li data-aos-delay="200" data-aos="zoom-out-up">
-              <a target="_blank" href="#"><i class="fa-brands fa-xl fa-facebook"></i></a>
+              <a target="_blank" href="https://www.facebook.com/KristallGlanzR"
+                ><i class="fa-brands fa-xl fa-facebook"></i
+              ></a>
             </li>
             <li data-aos-delay="300" data-aos="zoom-out-up">
               <a href="https://wa.me/4917628708089"><i class="fa-brands fa-xl fa-whatsapp"></i></a>
@@ -20,7 +22,9 @@
               <a target="_blank" href="#"><i class="fa-brands fa-xl fa-instagram"></i></a>
             </li>
             <li data-aos-delay="600" data-aos="zoom-out-up">
-              <a target="_blank" href="#"><i class="fa-brands fa-xl fa-telegram"></i> </a>
+              <a target="_blank" href="https://t.me/+4917628708089"
+                ><i class="fa-brands fa-xl fa-telegram"></i>
+              </a>
             </li>
           </ul>
         </div>
