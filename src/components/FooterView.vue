@@ -23,7 +23,9 @@
                 <a href="https://wa.me/4917628708089"><i class="fa-brands fa-whatsapp"></i></a>
               </li>
               <li>
-                <a target="_blank" href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a target="_blank" href="https://www.instagram.com/kristallglanzreinigung/"
+                  ><i class="fa-brands fa-instagram"></i
+                ></a>
               </li>
               <li>
                 <a target="_blank" href="https://t.me/+4917628708089"
