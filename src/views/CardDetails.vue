@@ -26,21 +26,6 @@
     <div class="details">
       <div class="container">
         <div class="row">
-          <div
-            data-aos="zoom-in-down"
-            data-aos-delay="1500"
-            class="col-12 d-flex justify-content-center pb-5 mb-5"
-          >
-            <iframe
-              class="object-fit-xxl-contain video border rounded"
-              :src="imageDetails.video"
-              title="YouTube video player"
-              frameborder="10"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-          </div>
-
           <div class="col-12 col-md-8 text-md-start text-center">
             <p class="details-title">
               Natürlich suchen Sie nach den besten Unternehmen, um Ihr Zuhause zu reinigen? Die
