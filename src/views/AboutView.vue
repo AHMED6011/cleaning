@@ -3,7 +3,7 @@
     <div id="carouselExample" class="carousel slide">
       <div class="carousel-inner overlay">
         <div class="carousel-item active">
-          <img src="../assets/images/تنظيف7.png" class="d-block w-100" alt="..." />
+          <img src="../assets/images/clean7.png" class="d-block w-100" alt="..." />
         </div>
       </div>
       <div class="carousel-caption">
@@ -26,7 +26,8 @@
         <div class="row overflow-hidden py-5">
           <div class="col-12 col-md-6">
             <div data-aos-delay="300" data-aos="fade-up-right" class="card">
-              <img src="../assets/images/تنظيف8.png" class="card-img-top" alt="..." />
+              <img src="../assets/images/clean8.png" class="card-img-top" alt="..." />
+
               <div class="card-body">
                 <h3 class="card-text text-primary">Was ist mit den Mitarbeitern?</h3>
                 <p>
@@ -45,7 +46,7 @@
           </div>
           <div class="col-12 my-5 col-md-6 offset-0 offset-lg-6">
             <div data-aos-delay="300" data-aos="fade-up-left" class="card">
-              <img src="../assets/images/دعم.png" class="card-img-top" alt="..." />
+              <img src="../assets/images/support.png" class="card-img-top" alt="..." />
               <div class="card-body">
                 <h3 class="card-text text-primary">Was ist mit dem Kundensupport-Team?</h3>
                 <p>

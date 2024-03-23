@@ -5,7 +5,10 @@
         <div class="row justify-content-center align-items-center">
           <div class="footer_menu col-lg-4 col-sm-12">
             <input placeholder="Deine E-Mail" class="input" name="email" type="email" />
-            <button class="button" onclick="window.location.href='mailto:rodrigmarco28@gmail.com'">
+            <button
+              class="button"
+              onclick="window.location.href='mailto:info@kristallglanz-reinigung.com'"
+            >
               Kontakt
             </button>
           </div>

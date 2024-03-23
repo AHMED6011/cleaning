@@ -9,13 +9,13 @@
     >
       <div class="carousel-inner overlay">
         <div class="carousel-item active">
-          <img src="../assets/images/تنظيف5.png" class="w-100" alt="..." />
+          <img src="../assets/images/clean5.png" class="w-100" alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="../assets/images/تنظيف7.png" class="w-100" alt="..." />
+          <img src="../assets/images/clean7.png" class="w-100" alt="..." />
         </div>
         <div class="carousel-item">
-          <img src="../assets/images/تنظيف8.png" class="w-100" alt="..." />
+          <img src="../assets/images/clean8.png" class="w-100" alt="..." />
         </div>
         <div class="carousel-item">
           <img
